@@ -2,4 +2,4 @@
 
 ![cppcheck-action](https://github.com/99002567/cpp-mini-project/workflows/cppcheck-action/badge.svg)
 
-![Valgrind](https://github.com/99002567/cpp-mini-project/workflows/Valgrind/badge.svg)
+![Valgrind](https://github.com/99002622/Mini-Project/workflows/Valgrind/badge.svg)
