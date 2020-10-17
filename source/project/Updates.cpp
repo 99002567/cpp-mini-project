@@ -31,7 +31,8 @@ std:: string Updates::getandroidVersion()
 
 std:: string Updates::getAppCurrentVersion()
 {
-   // return appCurrentVersion;
+   //issue resolved
+    return appCurrentVersion;
 }
 
 void Updates::display()
