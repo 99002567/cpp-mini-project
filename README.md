@@ -4,3 +4,5 @@
 
 ![Unit testing](https://github.com/99002567/cpp-mini-project/workflows/Unit%20testing/badge.svg)
 
+![Valgrind](https://github.com/99002567/cpp-mini-project/workflows/Valgrind/badge.svg)
+
