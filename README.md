@@ -1,8 +1,4 @@
 The main aim of the mini project is to read the data from the csv file, perform various operations on the csv file.  
-
-
-
-
 ![cppcheck-action](https://github.com/99002567/cpp-mini-project/workflows/cppcheck-action/badge.svg)
 ![Unit testing](https://github.com/99002567/cpp-mini-project/workflows/Unit%20testing/badge.svg)
 ![Valgrind](https://github.com/99002567/cpp-mini-project/workflows/Valgrind/badge.svg)
