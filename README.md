@@ -3,6 +3,6 @@ The main aim of the mini project is to read the data from the csv file, perform 
 ![Unit testing](https://github.com/99002567/cpp-mini-project/workflows/Unit%20testing/badge.svg)
 ![Valgrind](https://github.com/99002567/cpp-mini-project/workflows/Valgrind/badge.svg)
 ![C/C++ CI](https://github.com/99002567/cpp-mini-project/workflows/C/C++%20CI/badge.svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f43c7dcfa2f944e382ee306b5fd173e9)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002567/cpp-mini-project&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/843d8e743533483e9358244f95ba3bd4)](https://www.codacy.com/gh/99002567/cpp-mini-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002567/cpp-mini-project&amp;utm_campaign=Badge_Grade)
 
 
