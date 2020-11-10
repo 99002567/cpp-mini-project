@@ -9,8 +9,6 @@
 #include "Updates.h"
 
 
-
-
 App::App():appName(""),appRating(0),appSize(""),appReview(0.0),appInstalls(""),appContentRating(""),appCategory(""){}
   
 
@@ -19,7 +17,6 @@ appReview(review),
                                                                                        appInstalls(installs),
                                                                                        appContentRating(contentRating),
                                                                                         appCategory(category){}
-
 
 std:: string App::getAppName()
 {
